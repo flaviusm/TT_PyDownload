@@ -5,7 +5,7 @@ Download softwares using Python!
 Purpose
 =======
 This TT purpose is to guide you through all the necessary steps that are 
-required before you can start automatically download most popular multimedia softwares using a Python script.
+required before you can start to automatically download the most popular multimedia softwares using a Python script.
 
 Requirements
 ============
