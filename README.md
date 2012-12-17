@@ -23,3 +23,12 @@ HowTo
 8. Run the file using Python. Check the boxes in front of the softwares you want to download, then press download. By default, this script is set up to download Mozilla Firefox, Yahoo Messenger, Skype, VLC Media Player and Winamp.
 9. Open the python code with Eclipse. Replace the default URLs with the specific URLs for your desired softwares, then replace the corresponding name of the softwares. 
 10. Run the script and start downloading. 
+
+Resources used
+==============
+-Python homepage: http://python.org/ 
+-Eclipse homepage: http://www.eclipse.org/
+
+Questions?
+==========
+Email: flaviusasf@gmail.com
