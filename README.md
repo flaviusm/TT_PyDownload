@@ -20,6 +20,6 @@ HowTo
 5. Click on Help --> Install New Software... In the field next to 'Work with:' write http://pydev.org/updates, then press enter.
 6. Wait for a few moments, then check PyDev box and press next.
 7. Download the python script from http://github.com/flaviusm/TT_PyDownload/blob/master/asd.py and save it in your workspace.
-8. Run the file using Python. Check the boxes in front of the softwares you want to download. By default, this script is set up to download Mozilla Firefox, Yahoo Messenger, Skype, VLC media player and Winamp.
-9. Open the python code with Eclipse. Replace the default URLs with the specific URLs for your desired softwares.
-10. 
+8. Run the file using Python. Check the boxes in front of the softwares you want to download, then press download. By default, this script is set up to download Mozilla Firefox, Yahoo Messenger, Skype, VLC Media Player and Winamp.
+9. Open the python code with Eclipse. Replace the default URLs with the specific URLs for your desired softwares, then replace the corresponding name of the software. 
+10. Run the script and start downloading. 
