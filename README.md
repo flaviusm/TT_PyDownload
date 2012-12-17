@@ -26,8 +26,8 @@ HowTo
 
 Resources used
 ==============
--Python homepage: http://python.org/ 
--Eclipse homepage: http://www.eclipse.org/
+1. Python homepage: http://python.org/ 
+2. Eclipse homepage: http://www.eclipse.org/
 
 Questions?
 ==========
