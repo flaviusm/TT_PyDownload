@@ -31,4 +31,4 @@ Resources used
 
 Questions?
 ==========
-Email: flaviusasf@gmail.com
+E-Mail: flaviusasf@gmail.com
